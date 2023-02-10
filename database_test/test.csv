@@ -1,0 +1,11 @@
+Body,Acidity,Flavor,Aroma,Roast,Roastery,RoastDate,Country,Blend,Sold
+body1,acidity5,flavor2,aroma3,light,roastery1,2023-02-01,Columbia,blend1,0
+body2,acidity4,flavor2,aroma2,light,roastery3,2023-01-25,Ethiopia,blend3,0
+body1,acidity1,flavor2,aroma1,light,roastery2,2023-02-09,Brazil,blend2,0
+body4,acidity2,flavor3,aroma2,medium,roastery1,2023-02-04,Columbia,blend3,0
+body3,acidity5,flavor4,aroma1,medium,roastery5,2023-02-07,Honduras,blend2,0
+body1,acidity3,flavor1,aroma1,medium,roastery5,2023-01-24,Honduras,blend1,0
+body5,acidity1,flavor5,aroma4,medium,roastery3,2023-01-23,Vietnam,blend5,0
+body2,acidity4,flavor3,aroma4,dark,roastery3,2023-02-02,Columbia,blend5,0
+body3,acidity2,flavor4,aroma5,dark,roastery2,2023-02-03,Brazil,blend4,0
+body2,acidity1,flavor5,aroma4,espresso,roastery3,2023-02-07,Brazil,blend4,0
